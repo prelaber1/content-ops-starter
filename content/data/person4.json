@@ -1,10 +1,10 @@
 {
     "type": "Person",
-    "name": "Nina Mercado",
+    "name": "Aris Romosios",
     "role": "Co-founder & CEO",
     "image": {
         "url": "/images/avatar4.svg",
-        "altText": "Nina Mercado",
+        "altText": "Aris Romosios",
         "styles": {
             "self": {
                 "borderRadius": "medium",
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "Aris Romosios,  brings substantial professional experience in consulting, corporate management, and large-scale project execution. In particular, Aris Romosios has held executive and managerial roles within major multinational organizations, including IBM, Grant Thornton, Eurobank, PwC, and Accenture, where he has been actively involved in the management and delivery of complex corporate and consulting projects over several years. .\n"
 }
